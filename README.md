@@ -1,2 +1,2 @@
 # spa-nikola
-Single-App-Project- Nikola
+Single-Page-Application - Nikola Project 
